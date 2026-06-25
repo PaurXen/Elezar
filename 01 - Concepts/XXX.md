@@ -4,17 +4,17 @@ status: seed
 tags:
   - concept
 aliases:
-  - Primordial One
+  - Mana
 ---
 
-# Primordial
+# XX
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+> Energy that makes up entire universe.
 
 ## Definition
 
-To be expanded.
+
 
 ## Rules and Properties
 

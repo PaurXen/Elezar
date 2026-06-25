@@ -3,14 +3,13 @@ type: concept
 status: seed
 tags:
   - concept
-aliases:
-  - Primordial One
 ---
 
-# Primordial
+# Thrones
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+
+
 
 ## Definition
 

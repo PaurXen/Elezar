@@ -4,17 +4,17 @@ status: seed
 tags:
   - concept
 aliases:
-  - Primordial One
+  - Phantasmium
 ---
 
-# Primordial
+# Dreamveil
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+> Mix of [[Lunarium]] and [[Velarium]]
 
 ## Definition
 
-To be expanded.
+
 
 ## Rules and Properties
 

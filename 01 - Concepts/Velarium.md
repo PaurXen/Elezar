@@ -4,17 +4,20 @@ status: seed
 tags:
   - concept
 aliases:
-  - Primordial One
+  - False Silver
+  - False Moon
+  - Veilsilver
+  - Moon's Veil
 ---
 
-# Primordial
+# Velarium
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+> [[Magic|Mana]]-infused nickel.
 
 ## Definition
 
-To be expanded.
+
 
 ## Rules and Properties
 

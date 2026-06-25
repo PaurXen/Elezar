@@ -4,13 +4,14 @@ status: seed
 tags:
   - concept
 aliases:
-  - Primordial One
+  - Aurora
 ---
 
-# Primordial
+# Dream Currents
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+
+
 
 ## Definition
 

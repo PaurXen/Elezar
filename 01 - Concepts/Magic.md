@@ -14,11 +14,13 @@ aliases:
 
 ## Definition
 
-To be expanded.
+
 
 ## Rules and Properties
 
-To be expanded.
+Magic is [[XXX]] energy influenced by [[Reverie]] through [[Primordial]].
+[[Magic|Mana]] in itself sustains all life and binds all things possessing it.
+When mana is highly energized it starts emitting blueish or purple light as well as [[Mana Fumes]] that can be recognized by the smell similar to that of the storm.
 
 ## Historical Development
 

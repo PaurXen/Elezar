@@ -4,17 +4,16 @@ status: seed
 tags:
   - concept
 aliases:
-  - Primordial One
 ---
 
-# Primordial
+# Reverie
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+> Name unknown to anyone but [[04 - Characters/Thrones/Thrones|Thrones]]. It is [[Primordial|Primordial]]'s chosen ideal and reason for existence. Through it he gathers [[XXX]] and converts it into [[Reverie|Mana]].
 
 ## Definition
 
-To be expanded.
+
 
 ## Rules and Properties
 
