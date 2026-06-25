@@ -3,6 +3,8 @@ type: concept
 status: seed
 tags:
   - concept
+aliases:
+  - Mana
 ---
 
 # Magic
