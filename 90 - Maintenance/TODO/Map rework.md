@@ -1,0 +1,1 @@
+- [ ] scale - it should be based on travel time of 1st and 2nd GTW, forces of Omeos to the Alpheos and some phisics. 
