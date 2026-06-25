@@ -1,3 +1,5 @@
-- [ ] scale - it should be based on travel time of 1st and 2nd GTW, forces of Omeos to the Alpheos and some phisics
-- [ ] Climat, winds
-- [ ] Landmasses, tectonic plates, mountains
+- [x] scale - it should be based on travel time of 1st and 2nd GTW, forces of Omeos to the Alpheos and some phisics
+- [ ] strefy klimatyczne
+- [ ]  płyty tektoniczne
+- [ ] Landmasses, mountains
+- [ ] winds, weather

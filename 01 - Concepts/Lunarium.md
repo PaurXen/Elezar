@@ -4,17 +4,18 @@ status: seed
 tags:
   - concept
 aliases:
-  - Primordial One
+  - Dreamsilver
+  - Moon's Reflection
 ---
 
-# Primordial
+# Lunarium
 
 > [!summary]
-> The First God and creator associated with the origin of Elezar.
+> [[Magic|Mana]]-infused silver.
 
 ## Definition
 
-To be expanded.
+
 
 ## Rules and Properties
 
