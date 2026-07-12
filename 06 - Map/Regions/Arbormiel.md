@@ -1,18 +1,17 @@
 ---
 type: region
 status: seed
-aliases:
-  - Laciel
+aliases: []
 continent:
 tags:
   - map
   - region
 ---
 
-# Sacred Lake
+# Arbormiel
 
 > [!summary]
-> A broad territory within a continent.
+> Elven-dwarvish mountain, it looks like tree leaking a sap 
 
 ## Location
 

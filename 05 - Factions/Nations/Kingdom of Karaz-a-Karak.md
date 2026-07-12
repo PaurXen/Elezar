@@ -2,14 +2,15 @@
 type: faction
 faction_kind: nation
 status: seed
-aliases: []
+aliases:
+  - Karaz-a-Karak
 capital:
 tags:
   - factions
   - nation
 ---
 
-# Asedolon
+# Kingdom of Karaz-a-Karak
 
 > [!summary]
 > A political state, kingdom, empire, or independent territory.

@@ -18,7 +18,7 @@ tags:
 - **Karaz** = mountain / stone-crown / fortress
 - **a** = of / at / upon
 - **Karak** = peak / hold / ancestral city
-[[Asedolon]]
+[[Empire of Asedolon]]
 - **Asedolon** = “The First Seat” or “Seat of the Sun.”
 [[Doriathu]]
 - **Dor** = land / forest-realm

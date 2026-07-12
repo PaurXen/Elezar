@@ -2,8 +2,7 @@
 type: place
 place_kind: settlement
 status: seed
-aliases:
-  - Noxurak
+aliases: []
 settlement_type:
 continent:
 region:
@@ -14,10 +13,12 @@ tags:
   - settlement
 ---
 
-# Obsidianhold
+# Asedolon
 
 > [!summary]
-> A city, town, village, fortress, academy, or inhabited site.
+> Human capital
+
+
 
 ## Overview
 

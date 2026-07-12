@@ -26,10 +26,10 @@ A cataclysm could inject enough ozone and magical oxygen into the atmosphere to 
 [[Hellish Heat]] evolved to be so strong because lava and volcanos with high amount of [[Magic|Mana]] from [[Lay Lines]]
 
 Using [[Lay Lines]] exsoust ports to channel Mana through characters [[Reverie]] to perform [[Fables]]
-- [[1st Cataclysm]] [[Asedolon]]'s capital
+- [[1st Cataclysm]] [[Empire of Asedolon]]'s capital
 
 ## [[Races]]
-When [[Dwarves|dwarves]] started to crawl out of their mountains [[Humans|humans]] took over all fertile lands around them while ware left with ore heavy lands. This created tension between two races but to avoid conflict trading deals ware established. Trading human food for dwarven ores. Although humans did have a place filled with valuable [[Lunarium]] and [[Velarium]] it was considered [[Sacred Lake|holly lands]] by locales and to avoid animosity for taking part in a [[Asedolon]].
+When [[Dwarves|dwarves]] started to crawl out of their mountains [[Humans|humans]] took over all fertile lands around them while ware left with ore heavy lands. This created tension between two races but to avoid conflict trading deals ware established. Trading human food for dwarven ores. Although humans did have a place filled with valuable [[Lunarium]] and [[Velarium]] it was considered [[Sacred Lake|holly lands]] by locales and to avoid animosity for taking part in a [[Empire of Asedolon]].
 [[Elves]] ware more isolated and religious. They had regular confrontations with people of [[Sacred Lake]]. As well as wary vigilant towards people leaving near their [[Misty Forest]] and sometime even hostile to those who dare to disgrace it.
 
 ### [[Regions]]
