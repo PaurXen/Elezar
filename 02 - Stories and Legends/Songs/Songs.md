@@ -1,6 +1,6 @@
 ---
 type: moc
-category: songs
+category: song
 tags:
   - moc
   - stories

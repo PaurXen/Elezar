@@ -20,3 +20,42 @@ Large-scale spellcasting could create temporary **ozone storms**:
 ### Divine or Throne-level magic
 
 A cataclysm could inject enough ozone and magical oxygen into the atmosphere to alter local weather temporarily.
+
+
+## [[Lay Lines]]
+[[Hellish Heat]] evolved to be so strong because lava and volcanos with high amount of [[Magic|Mana]] from [[Lay Lines]]
+
+Using [[Lay Lines]] exsoust ports to channel Mana through characters [[Reverie]] to perform [[Fables]]
+- [[1st Cataclysm]] [[Asedolon]]'s capital
+
+## [[Races]]
+When [[Dwarves|dwarves]] started to crawl out of their mountains [[Humans|humans]] took over all fertile lands around them while ware left with ore heavy lands. This created tension between two races but to avoid conflict trading deals ware established. Trading human food for dwarven ores. Although humans did have a place filled with valuable [[Lunarium]] and [[Velarium]] it was considered [[Sacred Lake|holly lands]] by locales and to avoid animosity for taking part in a [[Asedolon]].
+[[Elves]] ware more isolated and religious. They had regular confrontations with people of [[Sacred Lake]]. As well as wary vigilant towards people leaving near their [[Misty Forest]] and sometime even hostile to those who dare to disgrace it.
+
+### Lifespan
+| Race                  | Normal lifespan | Rare maximum | Death-symbol                                                                                                                                                                                                                                           |
+| --------------------- | --------------: | -----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Humans                |           70–80 |          110 | Wither like grass. When returned into the earth their bodies nourish the land giving bountiful harvest                                                                                                                                                 |
+| Halflings             |         100–120 |          160 | Return to earth (elardrin traits -> Spring -> Summer -> Fall -> Winter). In places they die a new sprout will grow with a [[fruit of dreams]]                                                                                                          |
+| Dwarves               |         140–180 |          220 | Crumble like stone (fille their cracks with silver-purplish filling). At death their heart becomes a [[Dreamveil]] purity depending on their [[Reverie]] which they treat as a idle ([[Reverie of dwarven life]] ) and from this they craft keepsakes. |
+| Elves                 |         550–700 |          800 | Dry/hollow like ancient trees, lose their sap, creaking. Ceremony of departure when they let themselves become bark statues as their tombs                                                                                                             |
+| Merfolk / Water Elves |         400–500 |          600 | Dissolve, dry, or return to water. With age they start to melt and deform until they can not sustain their form. Then they return into the water, Which gains magical and healing properties                                                           |
+| Dragons               |       3000–5000 |       10000+ | With age [[Dragons]] loose lose the ability to shapeshift int their human forms (lose elasticity of their forms). With death their bodies dim and they live silverish husk with pure [[Dreamveil]] as a core.                                          |
+Depending on life length and their [[Reverie]] effects of their deaths are more potent. 
+## [[Regions]]
+
+Races originate from "Reverie" towards  the land:
+- [[Humans]] - plains/farmlands
+- [[Elves]] - forests
+- [[Dwarves]] - mountains
+- [[Dragons]] - high concentrations of [[Dreamveil]] (types of dragons)
+- [[Goliaths]] - highlands
+- [[Halflings]] - plains-forests
+- [[Races|Others]] - for eastern coast exhaust port 
+all sentient life is humanoid by nature but because dragons emerged from high concentrations of [[Dreamveil]] their body became bigger to accommodate this amount of power and developed differently for environmental  condition but still humanoid at core (dragonborn/humanization)
+
+
+
+## Related
+[[Idea - languages]]
+

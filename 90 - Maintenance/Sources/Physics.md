@@ -24,4 +24,5 @@ status: seed
 - [[Seasons]]
 - Because of its size continents influence weather strongly.
 
-- Continents ware raised from the ocean floor 
+- Continents ware raised from the ocean floor. [[Primordial]] curved two disks from the Elezar crust and with enormous [[Magic]] power that radiates from the [[core]] two continents ware lifted. This sustained energy flow that supports both landmasses spreads throw-out them in the form of [[Lay Lines]]. Also now the space beneath both continents is mostly empty space and oceans of magma with hundreds enormous [[Mana]] columns branching into the sky creating [[Underworld]].
+ 

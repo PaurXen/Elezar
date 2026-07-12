@@ -1,6 +1,6 @@
 ---
 type: moc
-category: events
+category: event
 tags:
   - moc
   - history

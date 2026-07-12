@@ -1,8 +1,9 @@
 ---
 type: concept
+canon_level:
 status: seed
 tags:
-  - concept
+  - concepts
 aliases:
   - Primordial One
 ---

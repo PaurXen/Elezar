@@ -31,3 +31,7 @@ tags: ["elezar/maintenance"]
 
 - [ ] Define the difference between taking a Throne, attaining godhood, dying, and ascending to the Divine Realm.
 - [ ] Confirm whether the former Priest of Nature and the World Tree are one continuous person or distinct aspects.
+
+
+
+

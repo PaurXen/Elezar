@@ -1,6 +1,6 @@
 ---
 type: moc
-category: legends
+category: legend
 tags:
   - moc
   - stories

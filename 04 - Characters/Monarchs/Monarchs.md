@@ -14,10 +14,10 @@ tags:
 
 ## The Four Monarchs
 
-- [[Horde]] — hobgoblin ruler of the North.
+- [[Horde]] — hobgoblin ruler of the West.
 - [[Rotten Ruler]] — lich ruler of the East.
-- [[Demon Lord]] — demon ruler of the South.
-- [[Hellish Heat]] — fire giant ruler of the West.
+- [[Demon Lord]] — demon ruler of the North.
+- [[Hellish Heat]] — fire giant ruler of the South.
 
 ## Unofficial Fifth Monarch
 

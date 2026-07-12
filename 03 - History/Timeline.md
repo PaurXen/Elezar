@@ -3,7 +3,6 @@ type: timeline
 status: review
 tags:
   - history
-  - timeline
 ---
 
 # Timeline

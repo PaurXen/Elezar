@@ -32,7 +32,7 @@ Possible examples:
 
 - [[Asedolon Culture]]
 - [[Doriathu Culture]]
-- [[Karaz Dwarven Culture]]
+- [[Dwarven Culture]]
 - [[Arcadian Culture]]
 - [[Omeos Cultures]]
 

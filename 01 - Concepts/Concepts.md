@@ -1,6 +1,7 @@
 ---
 type: moc
-category: concepts
+category: concept
+status: seed
 tags:
   - moc
   - concepts

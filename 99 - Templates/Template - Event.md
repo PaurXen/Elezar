@@ -1,32 +1,62 @@
 ---
-type: event
-event_kind:
-status: seed
+type: history
+category: event
+canon_level:
 date_oc:
 date_tc:
+status: seed
+tags:
+  - history
 aliases: []
-tags: [elezar/event]
 ---
 
 # {{title}}
 
 > [!summary]
-> 
+> One-sentence description of what happened.
 
 ## Date
 
+- **Old Calendar:**
+- **Trial Calendar:**
+- **Source date:**
+- **Duration:**
+
 ## Context
+
+What was happening before this event?
+
+## Causes
+
+- 
+- 
 
 ## Event
 
-## Consequences
+What happened?
 
 ## Participants
 
+- [[]]
+
 ## Locations
 
-## Retellings
+- [[]]
 
-## Open questions
+## Consequences
+
+### Immediate
+
+### Long-Term
+
+## Related Stories
+
+- [[]]
+
+## Open Questions
+
+- [ ] 
 
 ## Sources
+
+- [[]]

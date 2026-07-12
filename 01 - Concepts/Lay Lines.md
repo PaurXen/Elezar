@@ -1,14 +1,16 @@
 ---
 type: concept
+canon_level:
 status: seed
 tags:
-  - concept
+  - concepts
 ---
 
-# Divine Realm
+# Lay Lines
 
 > [!summary]
-> The divine domain associated with the Primordial and ascended Throne-holders.
+
+
 
 ## Definition
 

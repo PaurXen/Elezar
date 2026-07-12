@@ -1,32 +1,55 @@
 ---
 type: concept
+canon_level:
 status: seed
 tags:
-  - concept
+  - concepts
+aliases: []
 ---
 
-# Thrones
+# {{title}}
 
 > [!summary]
-
-
+> One-sentence definition of the concept.
 
 ## Definition
 
-To be expanded.
+What is this concept?
 
-## Rules and Properties
+## Core Rules
 
-To be expanded.
+- 
+- 
+- 
 
-## Historical Development
+## Origin
 
-See [[History]].
+Where did it come from?
+
+## How It Works
+
+Explain the mechanism, limits, and known behavior.
+
+## Known Examples
+
+- [[]]
+
+## Related Concepts
+
+- [[]]
+
+## Historical Role
+
+- [[]]
 
 ## Cultural Interpretations
 
-See [[Stories and Legends]] and [[Cultures]].
+- [[]]
 
-## Related Notes
+## Open Questions
 
-- [[Concepts]]
+- [ ] 
+
+## Sources
+
+- [[]]

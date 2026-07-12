@@ -1,6 +1,6 @@
 ---
 type: moc
-category: periods
+category: period
 tags:
   - moc
   - history

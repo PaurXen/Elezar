@@ -1,6 +1,6 @@
 ---
 type: moc
-category: eras
+category: era
 tags:
   - moc
   - history

@@ -1,9 +1,10 @@
 ---
 type: concept
 category: afterlife
+canon_level:
+status: seed
 tags:
-  - concept
-  - redemption
+  - concepts
 ---
 
 # Redemption

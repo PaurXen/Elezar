@@ -1,6 +1,6 @@
 ---
 type: moc
-category: fables
+category: fable
 tags:
   - moc
   - stories

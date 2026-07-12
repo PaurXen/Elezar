@@ -2,9 +2,7 @@
 type: realm
 category: afterlife
 tags:
-  - concept
-  - afterlife
-  - realm
+  - map
 ---
 
 # Hell

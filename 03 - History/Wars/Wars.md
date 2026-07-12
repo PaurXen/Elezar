@@ -1,6 +1,6 @@
 ---
 type: moc
-category: wars
+category: war
 tags:
   - moc
   - history

@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:\"06 - Map\" path:",
+      "query": "path:\"06 - Map\"",
       "color": {
         "a": 1,
         "rgb": 5096447
@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "path:\"08 - Cultures\" tag:",
+      "query": "path:\"08 - Cultures\"",
       "color": {
         "a": 1,
         "rgb": 5118178
@@ -92,16 +92,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.486159169550173,
+  "repelStrength": 12.0069204152249,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32201501258267407,
+  "scale": 0.2861895333277976,
   "close": true
 }

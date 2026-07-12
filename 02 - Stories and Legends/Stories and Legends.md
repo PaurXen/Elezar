@@ -1,6 +1,6 @@
 ---
 type: moc
-category: stories
+category: story
 tags:
   - moc
   - stories

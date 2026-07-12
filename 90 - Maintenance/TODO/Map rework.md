@@ -1,5 +1,21 @@
-- [x] scale - it should be based on travel time of 1st and 2nd GTW, forces of Omeos to the Alpheos and some phisics
-- [ ] strefy klimatyczne
-- [ ]  płyty tektoniczne
-- [ ] Landmasses, mountains
-- [ ] winds, weather
+- [x] scale - it should be based on travel time of 1st and 2nd GTW, forces of Omeos to the Alpheos and some physics 
+- [x] climate zones 
+- [x]  tectonic plates 
+- [x] Landmasses, mountains [take note of elevated sea floor lifted my Mana]
+- [x] winds, weather, lakes and rivers [elevation map]
+- [x] biomes [wind, weather, lake, mountains, climate zones, mountains, etc.] 
+- [ ] Points of interests [plot] [Why is it here?]:
+	- Why do people settle here?
+	- What does this place provide?
+	- Rivers
+	- Trade routs
+	- Checkpoints
+	- Resources 
+	- Names
+- [x] 2nd part of the video
+- [ ] key points (creativity)
+- [ ] expand it with knowledge (knowledge)
+- [ ] everything is connected (consistency)
+- [ ] find key narrative plots/knots/potential (narrative)
+- [ ] everyone has their opinion, view of a individual (empathy)
+- [ ] there's always a cause (consequences) 

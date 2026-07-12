@@ -4,6 +4,7 @@ category: geography
 tags:
   - moc
   - map
+status: seed
 ---
 
 # Regions

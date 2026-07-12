@@ -1,10 +1,8 @@
 ---
-type: realm
-category: afterlife
+type: map
+category: realm
 tags:
-  - concept
-  - afterlife
-  - realm
+  - map
 ---
 
 # Heaven

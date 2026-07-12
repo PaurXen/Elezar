@@ -1,13 +1,13 @@
 ---
 type: concept
+canon_level:
 status: seed
 tags:
-  - concept
-aliases:
-  - Mana
+  - concepts
+aliases: []
 ---
 
-# XX
+# XXX
 
 > [!summary]
 > Energy that makes up entire universe.

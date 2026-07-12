@@ -1,20 +1,30 @@
 ---
 type: character
-status: seed
-canon_level: confirmed
-aliases: []
+category:
+canon_level:
 race:
-throne:
-roles: []
-tags: [elezar/character]
+birth_oc:
+birth_tc:
+death_oc:
+death_tc:
+status: seed
+tags:
+  - characters
+aliases: []
 ---
 
 # {{title}}
 
 > [!summary]
-> 
+> One-sentence identity and importance.
 
 ## Identity
+
+- **Race:**
+- **Culture:**
+- **Faction/Nation:**
+- **Titles:**
+- **Status:** alive / dead / ascended / unknown
 
 ## Appearance
 
@@ -24,10 +34,36 @@ tags: [elezar/character]
 
 ## Biography
 
+### Early Life
+
+### Major Actions
+
+### Later Life
+
 ## Relationships
 
-## Related events
+- **Family:**
+- **Allies:**
+- **Enemies:**
+- **Mentors:**
+- **Students:**
 
-## Open questions
+## Related Events
+
+- [[]]
+
+## Related Places
+
+- [[]]
+
+## Related Factions
+
+- [[]]
+
+## Open Questions
+
+- [ ] 
 
 ## Sources
+
+- [[]]

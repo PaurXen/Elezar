@@ -1,12 +1,13 @@
 ---
-type: foundational-story
-status: canon
+type: story
+category: legend
+canon_level: legendary
+artist: Primordial
+date_oc:
+date_tc:
+status: review
 tags:
-  - story
-  - creation
-  - foundational
-  - edited
-category:
+  - stories
 ---
 
 # Story of Creation
