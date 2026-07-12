@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - ascension_oc
+      - birth_oc
+      - date_oc
+      - death_oc
+      - end_oc
+      - enthronement_oc
+      - start_oc
+      - founded_oc

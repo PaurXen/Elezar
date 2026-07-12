@@ -479,3 +479,12 @@ Sea elf: Deo mundo sonhou.
 ```
 
 That gives every race a shared Latin root, but each one feels different.
+
+- **Divina Lingua** — sacred Primordial / old divine language
+- **Asedolic** — human / imperial / common
+- **Karazic** — dwarven / stone-ore language
+- **Doriathic** — elven / forest language
+- **Draconian** — dragon / ancient high speech
+- **Marelian** — merfolk / sea language
+- **Hortelic** — halfling / field-grove language
+- **Altogarn** — goliath / highland language
