@@ -13,17 +13,16 @@ tags:
   - settlement
 ---
 
-# Mornignis
+# Alvitia
 
 > [!summary]
-> Right dragon vulcanic forge city
+> North elven city near northern highlands. 
 
 ## Overview
 
 - **Type:** city / fortress / village / academy / other
 - **Region:** [[]]
 - **Ruling faction:** [[]]
-
 
 ## Layout
 

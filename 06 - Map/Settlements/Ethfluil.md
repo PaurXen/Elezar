@@ -13,17 +13,16 @@ tags:
   - settlement
 ---
 
-# Mornignis
+# Ethfluil
 
 > [!summary]
-> Right dragon vulcanic forge city
+> A city, town, village, fortress, academy, or inhabited site.
 
 ## Overview
 
 - **Type:** city / fortress / village / academy / other
 - **Region:** [[]]
 - **Ruling faction:** [[]]
-
 
 ## Layout
 

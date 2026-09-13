@@ -30,7 +30,7 @@ Using [[Lay Lines]] exsoust ports to channel Mana through characters [[Reverie]]
 
 ## [[Races]]
 When [[Dwarves|dwarves]] started to crawl out of their mountains [[Humans|humans]] took over all fertile lands around them while ware left with ore heavy lands. This created tension between two races but to avoid conflict trading deals ware established. Trading human food for dwarven ores. Although humans did have a place filled with valuable [[Lunarium]] and [[Velarium]] it was considered [[Sacred Lake|holly lands]] by locales and to avoid animosity for taking part in a [[Empire of Asedolon]].
-[[Elves]] ware more isolated and religious. They had regular confrontations with people of [[Sacred Lake]]. As well as wary vigilant towards people leaving near their [[Misty Forest]] and sometime even hostile to those who dare to disgrace it.
+[[Elves]] ware more isolated and religious. They had regular confrontations with people of [[Sacred Lake]]. As well as wary vigilant towards people leaving near their [[Misty Forest]] and sometime even hostile to those who dare to disgrace it. In their language "*Huma*" means low/lower so that how they treat humas.
 
 ### [[Regions]]
 
@@ -80,6 +80,21 @@ Depending on life length and their [[Reverie]] effects of their deaths are more 
 |               4 | 60             | 8              | 24              | 0                 |              | 40                | 24              |
 |               5 | 54+            | 8+             | 22+             | 1+                |              | 36+               | 22+             |
 |               6 | 22+            | 6+             | 17+             | 1+                |              | 28+               | 17+             |
+
+## [[Afterlife]]
+### Before [[Monarch of the Dead]]
+Death was when [[Reverie of life]] ended by that i mean when body couldn't maintain ones soule and soul detached from it. Then depending on ones lingering emotions and dreams would manifest in physical world as postmortem phenomena's and if obsessions and dreams ware too big their consciousness could maintain itself driven by this dream (obsession) leaving ghosts and specters.
+
+[[Corruption]] - [[Reverie]] manifested throughout negative emotions and lingering obsessions.
+### [[3rd Cataclysm]]
+[[Monarch of the Dead]] resonated with [[Corruption]] beckoning it to rise and manifest which redefined concept of the death.
+
+### After [[3rd Cataclysm]]
+From this point on [[Monarch of the Dead|8th Throne]] hold dominion over [[Corruption]] and new manifestation of death, [[Mark of Death]], which manifested as gloomy aura, chill, weight on ones shoulder and ominous premonition for those whose death was certain. Like solider feeling gloomy seconds before explosion or a sick person days before death. Although after [[Monarch of the Dead|8th Throne]] ascension when one died most of the [[Corruption]] was collected by him [[Mark of Death]] with it's appearance caused more [[Corruption]] to manifest.
+
+### [[Heaven]] and [[Hell]]
+After creation of [[Afterlife]] system of death was organized. Now when world recognized you as dead you would gain [[Mark of Death]] then [[Monarch of the Dead]] would claim your corruption and thanks to the [[Mark of Death|Marks]] connection to the [[Afterlife]] it would use it to draw power from the realm of the dead and draw souls into it. 
+
 ## Related
 [[Idea - languages]]
 

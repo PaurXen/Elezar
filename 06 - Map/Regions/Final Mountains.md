@@ -1,20 +1,20 @@
 ---
-type: place
-place_kind: region
+type: region
 status: seed
 aliases:
-  - Callesivion
+  - Uhtimak Mox
 continent:
 tags:
   - map
   - region
 ---
 
-# Misty Forest
+# Final Mountains
 
 > [!summary]
 > A broad territory within a continent.
 
+![[Final Mountains.png]]
 ## Location
 
 - **Continent:** [[]]
@@ -25,12 +25,9 @@ tags:
 
 ## Settlements
 
-- [[Doriathu]]
-- [[Folielia]]
-- [[Alvitia]]
-- [[Alfluil]]
-- [[Hufluil]]
-- [[Ethfluil]]
+- [[Thronax Aeternum]]
+- [[Mornignis]]
+- [[Kaelrath]]
 
 ## Inhabitants
 

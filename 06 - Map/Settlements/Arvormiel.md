@@ -16,7 +16,7 @@ tags:
 # Arvormiel
 
 > [!summary]
-> Elvish-dwarve city on [[Arbormiel]]
+> Elvish-dwarve city on [[Amber Peeks]]
 
 ## Overview
 

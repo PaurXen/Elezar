@@ -14,7 +14,10 @@ status: seed
 
 ## Index
 
-Add notes from this folder here.
+- [[Final Mountains|Uhtimak Mox]] - Ultimus/Uhtimak(final) + mons/mox(mountain) 
+- [[Sacred Lake|Laciel]] - Lac(lake)
+- [[Amber Peeks|Arbormiel]] - Arbor(tree) + miel(~mountain)
+- [[Misty Forest|Callesivion]] - Calare/Calle(mist) + silva/silvion(forest)
 
 ## Related Notes
 

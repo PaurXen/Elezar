@@ -7,33 +7,19 @@ tags:
 aliases: []
 ---
 
-# Lay Line Exhaust Ports
+# Untitled
 
 > [!summary]
-> One-sentence definition of the concept.
+> It's a manifestation when world itself recognizes one as dead. 
 
 ## Definition
 
 What is this concept?
 
-## Locations
-### Inner
-- [[Altogar Rexum]]
-- [[06 - Map/Settlements/Asedolon|Asedolon]]
-- [[Doriathu]]
-- [[Sacred Lake|Laciel]]
-- [[Teralin]]
-### Outer
-- [[Karaz-a-Karak]]
-- [[Noxurak|Noxurak]]
-- [[Somavela]]
-- [[Amber Peeks]]([[Arvormiel]])
-- [[Thronax Aeternum]]
-
 ## Core Rules
 
 - 
-	- 
+- 
 - 
 
 ## Origin
@@ -54,8 +40,8 @@ Explain the mechanism, limits, and known behavior.
 
 ## Historical Role
 
-### Cities
 - [[]]
+
 ## Cultural Interpretations
 
 - [[]]

@@ -1,7 +1,8 @@
 ---
 type: region
 status: seed
-aliases: []
+aliases:
+  - Arbormiel
 continent:
 tags:
   - map
@@ -23,7 +24,9 @@ tags:
 
 ## Settlements
 
-- [[]]
+- [[Arvormiel]]
+- [[Elven City 1]]
+- [[Elven City 2]]
 
 ## Inhabitants
 

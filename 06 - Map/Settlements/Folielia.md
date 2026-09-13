@@ -13,17 +13,16 @@ tags:
   - settlement
 ---
 
-# Mornignis
+# Folielia
 
 > [!summary]
-> Right dragon vulcanic forge city
+> Elven city near the lake. East of the [[Doriathu]].
 
 ## Overview
 
 - **Type:** city / fortress / village / academy / other
 - **Region:** [[]]
 - **Ruling faction:** [[]]
-
 
 ## Layout
 

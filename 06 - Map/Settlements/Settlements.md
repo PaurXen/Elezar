@@ -13,17 +13,29 @@ tags:
 
 ## Index
 
+### [[Dragons]]
+
+
 [[Karaz-a-Karak]]: 
 - The Everpeak
 - **Karaz** = mountain / stone-crown / fortress
 - **a** = of / at / upon
 - **Karak** = peak / hold / ancestral city
-[[Empire of Asedolon]]
+[[Asedolon]]
 - **Asedolon** = “The First Seat” or “Seat of the Sun.”
-[[Doriathu]]
+[[Doriathu]] 
 - **Dor** = land / forest-realm
 - **iath / iathu** = veil, boundary, enclosure, mist-wall
 - **Doriathu** = “The Veiled Land,” “Land within the Mist,” or “The Enclosed Forest Realm.”
+
+[[Altogar Rexum]] - Royal High Hold
+[[Folielia]] - Folium/Foliel(Leaf) + Lucus/Lucia(Leak)
+[[Alvitia]] - Altus/Alia(High) + Vitis/Vitia(Vine)
+[[Alfluil]] - Altus/Alia(High) + Flumen/Fluith(River)
+[[Hufluil]] - Humilis/Huma(Low) + Flumen/Fluith(River)
+[[Ethfluil]] - Exitus/Ethli(Exit) + Flumen/Fluith(River)
+
+
 ## Related Notes
 
 - [[Map]]
